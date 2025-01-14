@@ -1,2 +1,7 @@
-# NicolasLupke.github.io
-Homepage
+# Homepage for all my activities
+
+## My CV
+
+## My Projects
+
+
