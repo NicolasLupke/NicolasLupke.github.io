@@ -3,5 +3,5 @@ title: Homepage for Nicolas Lupke, Information Systems student @ TUM
 description: My CV and assorted projects
 plugins: 
  -jemoji
-url: " https://NicolasLupke.github.io/";
+url: "https://NicolasLupke.github.io/";
 markdown: kramdown
